@@ -1,5 +1,6 @@
 {
-	"name": "jquery-autosize",
+	"name": "autosize",
+	"title": "Autosize",
 	"description": "Automatically adjust textarea height based on user input.",
 	"version": "1.17.8",
 	"dependencies": {
@@ -11,13 +12,11 @@
 		"ui",
 		"jQuery"
 	],
-	"authors": [
-		{
-			"name": "Jack Moore",
-			"url": "http://www.jacklmoore.com",
-			"email": "hello@jacklmoore.com"
-		}
-	],
+	"author": {
+		"name": "Jack Moore",
+		"url": "http://www.jacklmoore.com",
+		"email": "hello@jacklmoore.com"
+	},
 	"licenses": [
 		{
 			"type": "MIT",
@@ -25,5 +24,5 @@
 		}
 	],
 	"homepage": "http://www.jacklmoore.com/autosize",
-	"main": "jquery.autosize.js"
+	"demo": "http://www.jacklmoore.com/autosize"
 }
