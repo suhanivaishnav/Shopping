@@ -2,7 +2,7 @@
 
 It is a basic E-commerce website with all functionalities.
 
-#Technologies Used
+# Technologies Used
 
 HTML
 CSS
@@ -17,7 +17,7 @@ Add to Cart: Users can add products directly to their cart.
 Cart: The cart displays the items, their individual prices, and the total price of all products in the cart.
 Search: A search bar allows users to search for specific products.
 
-#Installation
+# Installation
 Clone the repository: git clone https://github.com/suhanivaishnav/Shopping.git
 Open the project directory: cd shopping
 Open the index.html file in your preferred web browser.
@@ -31,7 +31,7 @@ If you want to contribute or colloborate or want to seek any services, guidence 
 Connect with me
 Facebook LinkedIn GitHub
 
-Keywords:
+# Keywords:
 Ecommerce website
 HTML
 CSS
